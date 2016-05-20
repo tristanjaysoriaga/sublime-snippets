@@ -1,0 +1,144 @@
+[
+    //singapore
+    { "keys": ["ctrl+super+alt+1"], "command": "reg_replace","args": 
+    	{
+    		"replacements": 
+    	   ["sg_remove1","sg_remove2","sg_remove3","sg_remove4","sg_remove5","sg_remove6","sg_remove7","sg_remove8","sg_remove9","sg_remove10",
+    		"sg_remove11","sg_remove12","sg_remove13","sg_remove14","sg_remove15","sg_remove16","sg_remove17","sg_remove18","sg_remove19","sg_remove20",
+            "sg_remove21","sg_remove22","sg_remove23","sg_remove24","sg_remove25","sg_remove26","sg_remove27","sg_remove28","sg_remove29","sg_remove30",
+            "sg_remove31","sg_remove32","sg_remove33","sg_remove34","sg_remove35","sg_remove36","sg_remove37","sg_remove38","sg_remove39","sg_remove40",
+            "sg_remove41","sg_remove42","sg_remove43","sg_remove44","sg_remove45","sg_remove46","sg_remove47","sg_remove48","sg_remove49","sg_remove50",
+            "sg_remove51","sg_remove52","sg_remove53","sg_remove54","sg_remove55","sg_remove56","sg_remove57","sg_remove58","sg_remove59","sg_remove60"]
+    	}
+    },
+
+    //malaysia
+    { "keys": ["ctrl+super+alt+2"], "command": "reg_replace","args": 
+    	{
+    		"replacements": 
+            ["my_remove1","my_remove2","my_remove3","my_remove4","my_remove5","my_remove6","my_remove7","my_remove8","my_remove9","my_remove10",
+            "my_remove11","my_remove12","my_remove13","my_remove14","my_remove15","my_remove16","my_remove17","my_remove18","my_remove19","my_remove20",
+            "my_remove21","my_remove22","my_remove23","my_remove24","my_remove25","my_remove26","my_remove27","my_remove28","my_remove29","my_remove30",
+            "my_remove31","my_remove32","my_remove33","my_remove34","my_remove35","my_remove36","my_remove37","my_remove38","my_remove39","my_remove40",
+            "my_remove41","my_remove42","my_remove43","my_remove44","my_remove45","my_remove46","my_remove47","my_remove48","my_remove49","my_remove50",
+            "my_remove51","my_remove52","my_remove53","my_remove54","my_remove55","my_remove56","my_remove57","my_remove58","my_remove59","my_remove60"]
+    	}
+    },
+
+    //india
+    { "keys": ["ctrl+super+alt+3"], "command": "reg_replace","args": 
+        {
+            "replacements": 
+           ["in_remove1","in_remove2","in_remove3","in_remove4","in_remove5","in_remove6","in_remove7","in_remove8","in_remove9","in_remove10",
+            "in_remove11","in_remove12","in_remove13","in_remove14","in_remove15","in_remove16","in_remove17","in_remove18","in_remove19","in_remove20",
+            "in_remove21","in_remove22","in_remove23","in_remove24","in_remove25","in_remove26","in_remove27","in_remove28","in_remove29","in_remove30",
+            "in_remove31","in_remove33","in_remove33","in_remove34","in_remove35","in_remove36","in_remove37","in_remove38","in_remove39","in_remove40",
+            "in_remove41","in_remove42","in_remove43","in_remove44","in_remove45","in_remove46","in_remove47","in_remove48","in_remove49","in_remove50",
+            "in_remove51","in_remove52","in_remove53","in_remove54","in_remove55","in_remove56","in_remove57","in_remove58","in_remove59","in_remove60"]
+        }
+    },
+
+    //philippines
+    { "keys": ["ctrl+super+alt+4"], "command": "reg_replace","args": 
+    	{
+    		"replacements": 
+            ["ph_remove1","ph_remove2","ph_remove3","ph_remove4","ph_remove5","ph_remove6","ph_remove7","ph_remove8","ph_remove9","ph_remove10",
+            "ph_remove11","ph_remove12","ph_remove13","ph_remove14","ph_remove15","ph_remove16","ph_remove17","ph_remove18","ph_remove19","ph_remove20",
+            "ph_remove21","ph_remove22","ph_remove23","ph_remove24","ph_remove25","ph_remove26","ph_remove27","ph_remove28","ph_remove29","ph_remove30",
+            "ph_remove31","ph_remove32","ph_remove33","ph_remove34","ph_remove35","ph_remove36","ph_remove37","ph_remove38","ph_remove39","ph_remove40",
+            "ph_remove41","ph_remove42","ph_remove43","ph_remove44","ph_remove45","ph_remove46","ph_remove47","ph_remove48","ph_remove49","ph_remove50",
+            "ph_remove51","ph_remove52","ph_remove53","ph_remove54","ph_remove55","ph_remove56","ph_remove57","ph_remove58","ph_remove59","ph_remove60"]
+    	}
+    },
+
+    //vietnam
+    { "keys": ["ctrl+super+alt+5"], "command": "reg_replace","args": 
+        {
+            "replacements": 
+            ["vn_remove1","vn_remove2","vn_remove3","vn_remove4","vn_remove5","vn_remove6","vn_remove7","vn_remove8","vn_remove9","vn_remove10",
+            "vn_remove11","vn_remove12","vn_remove13","vn_remove14","vn_remove15","vn_remove16","vn_remove17","vn_remove18","vn_remove19","vn_remove20",
+            "vn_remove21","vn_remove22","vn_remove23","vn_remove24","vn_remove25","vn_remove26","vn_remove27","vn_remove28","vn_remove29","vn_remove30",
+            "vn_remove31","vn_remove32","vn_remove33","vn_remove34","vn_remove35","vn_remove36","vn_remove37","vn_remove38","vn_remove39","vn_remove40",
+            "vn_remove41","vn_remove42","vn_remove43","vn_remove44","vn_remove45","vn_remove46","vn_remove47","vn_remove48","vn_remove49","vn_remove50",
+            "vn_remove51","vn_remove52","vn_remove53","vn_remove54","vn_remove55","vn_remove56","vn_remove57","vn_remove58","vn_remove59","vn_remove60"]
+        }
+    },
+
+    //indonesia - ID
+    { "keys": ["ctrl+super+alt+6"], "command": "reg_replace","args": 
+        {
+            "replacements": 
+            ["id_id_remove1","id_id_remove2","id_id_remove3","id_id_remove4","id_id_remove5","id_id_remove6","id_id_remove7","id_id_remove8","id_id_remove9","id_id_remove10",
+            "id_id_remove11","id_id_remove12","id_id_remove13","id_id_remove14","id_id_remove15","id_id_remove16","id_id_remove17","id_id_remove18","id_id_remove19","id_id_remove20",
+            "id_id_remove21","id_id_remove22","id_id_remove23","id_id_remove24","id_id_remove25","id_id_remove26","id_id_remove27","id_id_remove28","id_id_remove29","id_id_remove30",
+            "id_id_remove31","id_id_remove32","id_id_remove33","id_id_remove34","id_id_remove35","id_id_remove36","id_id_remove37","id_id_remove38","id_id_remove39","id_id_remove40",
+            "id_id_remove41","id_id_remove42","id_id_remove43","id_id_remove44","id_id_remove45","id_id_remove46","id_id_remove47","id_id_remove48","id_id_remove49","id_id_remove50",
+            "id_id_remove51","id_id_remove52","id_id_remove53","id_id_remove54","id_id_remove55","id_id_remove56","id_id_remove57","id_id_remove58","id_id_remove59","id_id_remove60"]
+        }
+    },
+
+    //thailand - TH
+    { "keys": ["ctrl+super+alt+7"], "command": "reg_replace","args": 
+        {
+            "replacements": 
+            ["th_th_remove1","th_th_remove2","th_th_remove3","th_th_remove4","th_th_remove5","th_th_remove6","th_th_remove7","th_th_remove8","th_th_remove9","th_th_remove10",
+            "th_th_remove11","th_th_remove12","th_th_remove13","th_th_remove14","th_th_remove15","th_th_remove16","th_th_remove17","th_th_remove18","th_th_remove19","th_th_remove20",
+            "th_th_remove21","th_th_remove22","th_th_remove23","th_th_remove24","th_th_remove25","th_th_remove26","th_th_remove27","th_th_remove28","th_th_remove29","th_th_remove30",
+            "th_th_remove31","th_th_remove32","th_th_remove33","th_th_remove34","th_th_remove35","th_th_remove36","th_th_remove37","th_th_remove38","th_th_remove39","th_th_remove40",
+            "th_th_remove41","th_th_remove42","th_th_remove43","th_th_remove44","th_th_remove45","th_th_remove46","th_th_remove47","th_th_remove48","th_th_remove49","th_th_remove50",
+            "th_th_remove51","th_th_remove52","th_th_remove53","th_th_remove54","th_th_remove55","th_th_remove56","th_th_remove57","th_th_remove58","th_th_remove59","th_th_remove60"]
+        }
+    },
+
+    //indonesia - ID - Preloc
+    { "keys": ["ctrl+super+alt+8"], "command": "reg_replace","args": 
+        {
+            "replacements": 
+            ["id_id_preloc_remove1","id_id_preloc_remove2","id_id_preloc_remove3","id_id_preloc_remove4","id_id_preloc_remove5","id_id_preloc_remove6","id_id_preloc_remove7","id_id_preloc_remove8","id_id_preloc_remove9","id_id_preloc_remove10",
+            "id_id_preloc_remove11","id_id_preloc_remove12","id_id_preloc_remove13","id_id_preloc_remove14","id_id_preloc_remove15","id_id_preloc_remove16","id_id_preloc_remove17","id_id_preloc_remove18","id_id_preloc_remove19","id_id_preloc_remove20",
+            "id_id_preloc_remove21","id_id_preloc_remove22","id_id_preloc_remove23","id_id_preloc_remove24","id_id_preloc_remove25","id_id_preloc_remove26","id_id_preloc_remove27","id_id_preloc_remove28","id_id_preloc_remove29","id_id_preloc_remove30",
+            "id_id_preloc_remove31","id_id_preloc_remove32","id_id_preloc_remove33","id_id_preloc_remove34","id_id_preloc_remove35","id_id_preloc_remove36","id_id_preloc_remove37","id_id_preloc_remove38","id_id_preloc_remove39","id_id_preloc_remove40",
+            "id_id_preloc_remove41","id_id_preloc_remove42","id_id_preloc_remove43","id_id_preloc_remove44","id_id_preloc_remove45","id_id_preloc_remove46","id_id_preloc_remove47","id_id_preloc_remove48","id_id_preloc_remove49","id_id_preloc_remove50",
+            "id_id_preloc_remove51","id_id_preloc_remove52","id_id_preloc_remove53","id_id_preloc_remove54","id_id_preloc_remove55","id_id_preloc_remove56","id_id_preloc_remove57","id_id_preloc_remove58","id_id_preloc_remove59","id_id_preloc_remove60"]
+        }
+    },
+
+    //thailand - TH - Preloc
+    { "keys": ["ctrl+super+alt+9"], "command": "reg_replace","args": 
+        {
+            "replacements": 
+            ["th_th_preloc_remove1","th_th_preloc_remove2","th_th_preloc_remove3","th_th_preloc_remove4","th_th_preloc_remove5","th_th_preloc_remove6","th_th_preloc_remove7","th_th_preloc_remove8","th_th_preloc_remove9","th_th_preloc_remove10",
+            "th_th_preloc_remove11","th_th_preloc_remove12","th_th_preloc_remove13","th_th_preloc_remove14","th_th_preloc_remove15","th_th_preloc_remove16","th_th_preloc_remove17","th_th_preloc_remove18","th_th_preloc_remove19","th_th_preloc_remove20",
+            "th_th_preloc_remove21","th_th_preloc_remove22","th_th_preloc_remove23","th_th_preloc_remove24","th_th_preloc_remove25","th_th_preloc_remove26","th_th_preloc_remove27","th_th_preloc_remove28","th_th_preloc_remove29","th_th_preloc_remove30",
+            "th_th_preloc_remove31","th_th_preloc_remove32","th_th_preloc_remove33","th_th_preloc_remove34","th_th_preloc_remove35","th_th_preloc_remove36","th_th_preloc_remove37","th_th_preloc_remove38","th_th_preloc_remove39","th_th_preloc_remove40",
+            "th_th_preloc_remove41","th_th_preloc_remove42","th_th_preloc_remove43","th_th_preloc_remove44","th_th_preloc_remove45","th_th_preloc_remove46","th_th_preloc_remove47","th_th_preloc_remove48","th_th_preloc_remove49","th_th_preloc_remove50",
+            "th_th_preloc_remove51","th_th_preloc_remove52","th_th_preloc_remove53","th_th_preloc_remove54","th_th_preloc_remove55","th_th_preloc_remove56","th_th_preloc_remove57","th_th_preloc_remove58","th_th_preloc_remove59","th_th_preloc_remove60"]
+        }
+    },
+
+    //indonesia - EN
+    { "keys": ["ctrl+super+alt+0"], "command": "reg_replace","args": 
+        {
+            "replacements": 
+            ["id_en_remove1","id_en_remove2","id_en_remove3","id_en_remove4","id_en_remove5","id_en_remove6","id_en_remove7","id_en_remove8","id_en_remove9","id_en_remove10",
+            "id_en_remove11","id_en_remove12","id_en_remove13","id_en_remove14","id_en_remove15","id_en_remove16","id_en_remove17","id_en_remove18","id_en_remove19","id_en_remove20",
+            "id_en_remove21","id_en_remove22","id_en_remove23","id_en_remove24","id_en_remove25","id_en_remove26","id_en_remove27","id_en_remove28","id_en_remove29","id_en_remove30",
+            "id_en_remove31","id_en_remove32","id_en_remove33","id_en_remove34","id_en_remove35","id_en_remove36","id_en_remove37","id_en_remove38","id_en_remove39","id_en_remove40",
+            "id_en_remove41","id_en_remove42","id_en_remove43","id_en_remove44","id_en_remove45","id_en_remove46","id_en_remove47","id_en_remove48","id_en_remove49","id_en_remove50",
+            "id_en_remove51","id_en_remove52","id_en_remove53","id_en_remove54","id_en_remove55","id_en_remove56","id_en_remove57","id_en_remove58","id_en_remove59","id_en_remove60"]
+        }
+    },    
+
+    //thailand - EN
+    { "keys": ["ctrl+super+alt+/"], "command": "reg_replace","args": 
+        {
+            "replacements": 
+            ["th_en_remove1","th_en_remove2","th_en_remove3","th_en_remove4","th_en_remove5","th_en_remove6","th_en_remove7","th_en_remove8","th_en_remove9","th_en_remove10",
+            "th_en_remove11","th_en_remove12","th_en_remove13","th_en_remove14","th_en_remove15","th_en_remove16","th_en_remove17","th_en_remove18","th_en_remove19","th_en_remove20",
+            "th_en_remove21","th_en_remove22","th_en_remove23","th_en_remove24","th_en_remove24","th_en_remove25","th_en_remove27","th_en_remove28","th_en_remove29","th_en_remove30",
+            "th_en_remove31","th_en_remove32","th_en_remove33","th_en_remove34","th_en_remove35","th_en_remove36","th_en_remove37","th_en_remove38","th_en_remove39","th_en_remove40",
+            "th_en_remove41","th_en_remove42","th_en_remove43","th_en_remove44","th_en_remove45","th_en_remove46","th_en_remove47","th_en_remove48","th_en_remove49","th_en_remove50",
+            "th_en_remove51","th_en_remove52","th_en_remove53","th_en_remove54","th_en_remove55","th_en_remove56","th_en_remove57","th_en_remove58","th_en_remove59","th_en_remove60"]
+        }
+    }
+]

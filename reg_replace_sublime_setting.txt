@@ -1,0 +1,1986 @@
+{
+    "replacements": {
+        //singapore
+        //click.txt
+        "sg_remove1": {
+            "find": "www.apple.com/us",
+            "replace": "www.apple.com",
+            "greedy": true,
+            "case": false
+        },
+        "sg_remove2": {
+            "find": "www.apple.com/retail/learn",
+            "replace": "www.apple.com/retail",
+            "greedy": true,
+            "case": false
+        },
+        "sg_remove3": {
+            "find": "www.apple.com/retail/iphone",
+            "replace": "www.apple.com/retail",
+            "greedy": true,
+            "case": false
+        },
+        "sg_remove4": {
+            "find": "www.apple.com/retail",
+            "replace": "locate.apple.com/sg/en",
+            "greedy": true,
+            "case": false
+        },
+        "sg_remove5": {
+            "find": "www.apple.com/xc/stores",
+            "replace": "locate.apple.com/sg/en",
+            "greedy": true,
+            "case": false
+        },
+        "sg_remove6": {
+            "find": "/support.apple.com/kb",
+            "replace": "/support.apple.com",
+            "greedy": true,
+            "case": false
+        },
+        "sg_remove7": {
+            "find": "/support.apple.com",
+            "replace": "/www.apple.com/sg/support",
+            "greedy": true,
+            "case": false
+        },
+        "sg_remove8": {
+            "find": "itunes.apple.com/us",
+            "replace": "itunes.apple.com",
+            "greedy": true,
+            "case": false
+        },
+        "sg_remove9": {
+            "find": "itunes.apple.com",
+            "replace": "itunes.apple.com/sg",
+            "greedy": true,
+            "case": false
+        },
+        "sg_remove10": {
+            "find": "store.apple.com/us",
+            "replace": "store.apple.com/sg",
+            "greedy": true,
+            "case": false
+        },
+        "sg_remove11": {
+            "find": "www.apple.com",
+            "replace": "www.apple.com/sg",
+            "greedy": true,
+            "case": false
+        },
+        //from_address.txt
+        "sg_remove12": {
+            "find": "us: Standard Chatterbox",
+            "replace": "sg: APAC Standard Chatterbox",
+            "greedy": true,
+            "case": false
+        },
+        //index.txt and index.html
+        "sg_remove13": {
+            "find": "Find a Store",
+            "replace": "Find a Reseller",
+            "greedy": true,
+            "case": false
+        },
+        "sg_remove14": {
+            "find": "1-800-MY-APPLE",
+            "replace": "1800-692-7753",
+            "greedy": true,
+            "case": false
+        },
+        "sg_remove15": {
+            "find": "TM and copyright (c) [[COPYRIGHT_YEAR]] Apple Inc.",
+            "replace": "TM and (c) [[COPYRIGHT_YEAR]] Apple Inc.",
+            "greedy": true,
+            "case": false
+        },
+        "sg_remove16": {
+            "find": "1 Infinite Loop, MS 96-DM, Cupertino, CA 95014.",
+            "replace": "Tel: 1800-692-7753.",
+            "greedy": true,
+            "case": false
+        },
+        "sg_remove17": {
+            "find": "www.apple.com/sg/privacy/privacy-policy/",
+            "replace": "www.apple.com/sg/privacy/",
+            "greedy": true,
+            "case": false
+        },
+        "sg_remove18": {
+            "find": "www.apple.com/sg/privacy/",
+            "replace": "www.apple.com/legal/privacy/en-ww",
+            "greedy": true,
+            "case": false
+        },
+        "sg_remove19": {
+            "find": "appleid.apple.com",
+            "replace": "appleid.apple.com/en_SG",
+            "greedy": true,
+            "case": false
+        },
+        "sg_remove20": {
+            "find": "Visit a store",
+            "replace": "Find a reseller",
+            "greedy": true,
+            "case": false
+        },
+        "sg_remove21": {
+            "find": "www.apple.com/sg/legal/internet-services/itunes/us/terms.html",
+            "replace": "www.apple.com/legal/internet-services/itunes/sg/terms.html",
+            "greedy": true,
+            "case": false
+        },
+         "sg_remove22": {
+            "find": "www.apple.com/sg/support/itunes/ww/",
+            "replace": "www.apple.com/support/itunes/ww/",
+            "greedy": true,
+            "case": false
+        },
+        "sg_remove23": {
+            "find": "Find&nbsp;a&nbsp;Store",
+            "replace": "Find a Reseller",
+            "greedy": true,
+            "case": false
+        },
+        "sg_remove24": {
+            "find": "1‑800‑MY‑APPLE",
+            "replace": "1800-692-7753",
+            "greedy": true,
+            "case": false
+        },
+        "sg_remove25": {
+            "find": "[[COPYRIGHT_YEAR]] Apple Inc.<br />",
+            "replace": "[[COPYRIGHT_YEAR]] Apple Inc.",
+            "greedy": true,
+            "case": false
+        },
+        "sg_remove26": {
+            "find": "TM and copyright © [[COPYRIGHT_YEAR]] Apple Inc.",
+            "replace": "TM and © [[COPYRIGHT_YEAR]] Apple Inc.",
+            "greedy": true,
+            "case": false
+        },
+
+        //malaysia
+        //click.txt
+        "my_remove1": {
+            "find": "www.apple.com/us",
+            "replace": "www.apple.com",
+            "greedy": true,
+            "case": false
+        },
+        "my_remove2": {
+            "find": "www.apple.com/retail/learn",
+            "replace": "www.apple.com/retail",
+            "greedy": true,
+            "case": false
+        },
+        "my_remove3": {
+            "find": "www.apple.com/retail/iphone",
+            "replace": "www.apple.com/retail",
+            "greedy": true,
+            "case": false
+        },
+        "my_remove4": {
+            "find": "www.apple.com/retail",
+            "replace": "locate.apple.com/my/en",
+            "greedy": true,
+            "case": false
+        },
+        "my_remove5": {
+            "find": "www.apple.com/xc/stores",
+            "replace": "locate.apple.com/my/en",
+            "greedy": true,
+            "case": false
+        },
+        "my_remove6": {
+            "find": "/support.apple.com/kb",
+            "replace": "/support.apple.com",
+            "greedy": true,
+            "case": false
+        },
+        "my_remove7": {
+            "find": "/support.apple.com",
+            "replace": "/www.apple.com/my/support",
+            "greedy": true,
+            "case": false
+        },
+        "my_remove8": {
+            "find": "itunes.apple.com/us",
+            "replace": "itunes.apple.com",
+            "greedy": true,
+            "case": false
+        },
+        "my_remove9": {
+            "find": "itunes.apple.com",
+            "replace": "itunes.apple.com/my",
+            "greedy": true,
+            "case": false
+        },
+        "my_remove10": {
+            "find": "store.apple.com/us",
+            "replace": "store.apple.com/my",
+            "greedy": true,
+            "case": false
+        },
+        "my_remove11": {
+            "find": "www.apple.com",
+            "replace": "www.apple.com/my",
+            "greedy": true,
+            "case": false
+        },
+        //from_address.txt
+        "my_remove12": {
+            "find": "us: Standard Chatterbox",
+            "replace": "mas: APAC Standard Chatterbox",
+            "greedy": true,
+            "case": false
+        },
+        //index.txt and index.html
+        "my_remove13": {
+            "find": "Find a Store",
+            "replace": "Find a Reseller",
+            "greedy": true,
+            "case": false
+        },
+        "my_remove14": {
+            "find": "1-800-MY-APPLE",
+            "replace": "1800-80-6419",
+            "greedy": true,
+            "case": false
+        },
+        "my_remove15": {
+            "find": "TM and copyright (c) [[COPYRIGHT_YEAR]] Apple Inc.",
+            "replace": "TM and (c) [[COPYRIGHT_YEAR]] Apple Inc.",
+            "greedy": true,
+            "case": false
+        },
+        "my_remove16": {
+            "find": "1 Infinite Loop, MS 96-DM, Cupertino, CA 95014.",
+            "replace": "Tel: 1800-80-6419.",
+            "greedy": true,
+            "case": false
+        },
+        "my_remove17": {
+            "find": "www.apple.com/my/privacy/privacy-policy/",
+            "replace": "www.apple.com/my/privacy/",
+            "greedy": true,
+            "case": false
+        },
+        "my_remove18": {
+            "find": "www.apple.com/my/privacy/",
+            "replace": "www.apple.com/legal/privacy/en-ww",
+            "greedy": true,
+            "case": false
+        },
+        "my_remove19": {
+            "find": "appleid.apple.com",
+            "replace": "appleid.apple.com/en_MY",
+            "greedy": true,
+            "case": false
+        },
+        "my_remove20": {
+            "find": "Visit a store",
+            "replace": "Find a reseller",
+            "greedy": true,
+            "case": false
+        },
+        "my_remove21": {
+            "find": "www.apple.com/my/legal/internet-services/itunes/us/terms.html",
+            "replace": "www.apple.com/legal/internet-services/itunes/my/terms.html",
+            "greedy": true,
+            "case": false
+        },
+         "my_remove22": {
+            "find": "www.apple.com/my/support/itunes/ww/",
+            "replace": "www.apple.com/support/itunes/ww/",
+            "greedy": true,
+            "case": false
+        },
+        "my_remove23": {
+            "find": "Find&nbsp;a&nbsp;Store",
+            "replace": "Find a Reseller",
+            "greedy": true,
+            "case": false
+        },
+        "my_remove24": {
+            "find": "1‑800‑MY‑APPLE",
+            "replace": "1800-80-6419",
+            "greedy": true,
+            "case": false
+        },
+        "my_remove25": {
+            "find": "TM and copyright © [[COPYRIGHT_YEAR]] Apple Inc.",
+            "replace": "TM and © [[COPYRIGHT_YEAR]] Apple Inc.",
+            "greedy": true,
+            "case": false
+        },   
+
+        //india
+        //click.txt
+        "in_remove1": {
+            "find": "www.apple.com/us",
+            "replace": "www.apple.com",
+            "greedy": true,
+            "case": false
+        },
+        "in_remove2": {
+            "find": "www.apple.com/retail/learn",
+            "replace": "www.apple.com/retail",
+            "greedy": true,
+            "case": false
+        },
+        "in_remove3": {
+            "find": "www.apple.com/retail/iphone",
+            "replace": "www.apple.com/retail",
+            "greedy": true,
+            "case": false
+        },
+        "in_remove4": {
+            "find": "www.apple.com/retail",
+            "replace": "locate.apple.com/in/en",
+            "greedy": true,
+            "case": false
+        },
+        "in_remove5": {
+            "find": "www.apple.com/xc/stores",
+            "replace": "locate.apple.com/in/en",
+            "greedy": true,
+            "case": false
+        },
+        "in_remove6": {
+            "find": "/support.apple.com/kb",
+            "replace": "/support.apple.com",
+            "greedy": true,
+            "case": false
+        },
+        "in_remove7": {
+            "find": "/support.apple.com",
+            "replace": "/www.apple.com/in/support",
+            "greedy": true,
+            "case": false
+        },
+        "in_remove8": {
+            "find": "itunes.apple.com/us",
+            "replace": "itunes.apple.com",
+            "greedy": true,
+            "case": false
+        },
+        "in_remove9": {
+            "find": "itunes.apple.com",
+            "replace": "itunes.apple.com/in",
+            "greedy": true,
+            "case": false
+        },
+        "in_remove10": {
+            "find": "store.apple.com/us",
+            "replace": "store.apple.com/in",
+            "greedy": true,
+            "case": false
+        },
+        "in_remove11": {
+            "find": "www.apple.com",
+            "replace": "www.apple.com/in",
+            "greedy": true,
+            "case": false
+        },
+        //from_address.txt
+        "in_remove12": {
+            "find": "us: Standard Chatterbox",
+            "replace": "in: APAC Standard Chatterbox",
+            "greedy": true,
+            "case": false
+        },
+        //index.txt and index.html
+        "in_remove13": {
+            "find": "Find a Store",
+            "replace": "Find a Reseller",
+            "greedy": true,
+            "case": false
+        },
+        "in_remove14": {
+            "find": "1-800-MY-APPLE",
+            "replace": "***1-800-MY-APPLE",
+            "greedy": true,
+            "case": false
+        },
+        "in_remove15": {
+            "find": "TM and copyright (c) [[COPYRIGHT_YEAR]] Apple Inc.",
+            "replace": "TM and (c) [[COPYRIGHT_YEAR]] Apple Inc.",
+            "greedy": true,
+            "case": false
+        },
+        "in_remove16": {
+            "find": "1 Infinite Loop, MS 96-DM, Cupertino, CA 95014.",
+            "replace": "Apple India Private Limited, 19th Floor, Concorde Tower C,<br/>UB City, No. 24, Vittal Mallya Road, Bangalore 560 001 India<br/>CIN: U30007KA1996PTC019630.<br/>Telephone: 91 80 4045 5150 Fax: 91 80 4045 5197<br/>Email: bangalore_admin@apple.com Website: http://www.apple.com/in/",
+            "greedy": true,
+            "case": false
+        },
+        "in_remove17": {
+            "find": "www.apple.com/in/privacy/privacy-policy/",
+            "replace": "www.apple.com/in/privacy/",
+            "greedy": true,
+            "case": false
+        },
+        "in_remove18": {
+            "find": "www.apple.com/in/privacy/",
+            "replace": "www.apple.com/legal/privacy/en-ww",
+            "greedy": true,
+            "case": false
+        },
+        "in_remove19": {
+            "find": "appleid.apple.com",
+            "replace": "appleid.apple.com/en_IN",
+            "greedy": true,
+            "case": false
+        },
+        "in_remove20": {
+            "find": "Visit a store",
+            "replace": "Find a reseller",
+            "greedy": true,
+            "case": false
+        },
+         "in_remove21": {
+            "find": "Get the Apple Store App",
+            "replace": "***Get the Apple Store App",
+            "greedy": true,
+            "case": false
+        },     
+        "in_remove22": {
+            "find": "Shop Online",
+            "replace": "***Shop Online",
+            "greedy": true,
+            "case": false
+        },
+        "in_remove23": {
+            "find": "www.apple.com/in/legal/internet-services/itunes/us/terms.html",
+            "replace": "www.apple.com/legal/internet-services/itunes/in/terms.html",
+            "greedy": true,
+            "case": false
+        },
+         "in_remove24": {
+            "find": "www.apple.com/in/support/itunes/ww/",
+            "replace": "www.apple.com/support/itunes/ww/",
+            "greedy": true,
+            "case": false
+        },
+        "in_remove25": {
+            "find": "Find&nbsp;a&nbsp;Store",
+            "replace": "Find a Reseller",
+            "greedy": true,
+            "case": false
+        },
+        "in_remove26": {
+            "find": "1‑800‑MY‑APPLE",
+            "replace": "***1-800-MY-APPLE",
+            "greedy": true,
+            "case": false
+        },
+        "in_remove27": {
+            "find": "Get&nbsp;the&nbsp;Apple&nbsp;Store&nbsp;App",
+            "replace": "***Get&nbsp;the&nbsp;Apple&nbsp;Store&nbsp;App",
+            "greedy": true,
+            "case": false
+        },
+        "in_remove28": {
+            "find": "TM and copyright © [[COPYRIGHT_YEAR]] Apple Inc.",
+            "replace": "TM and © [[COPYRIGHT_YEAR]] Apple Inc.",
+            "greedy": true,
+            "case": false
+        },       
+
+        //philippines
+        //click.txt
+        "ph_remove1": {
+            "find": "www.apple.com/us",
+            "replace": "www.apple.com",
+            "greedy": true,
+            "case": false
+        },
+        "ph_remove2": {
+            "find": "www.apple.com/retail/learn",
+            "replace": "www.apple.com/retail",
+            "greedy": true,
+            "case": false
+        },
+        "ph_remove3": {
+            "find": "www.apple.com/retail/iphone",
+            "replace": "www.apple.com/retail",
+            "greedy": true,
+            "case": false
+        },
+        "ph_remove4": {
+            "find": "www.apple.com/retail",
+            "replace": "locate.apple.com/ph/en",
+            "greedy": true,
+            "case": false
+        },
+        "ph_remove5": {
+            "find": "www.apple.com/xc/stores",
+            "replace": "locate.apple.com/ph/en",
+            "greedy": true,
+            "case": false
+        },
+        "ph_remove6": {
+            "find": "/support.apple.com/kb",
+            "replace": "/support.apple.com",
+            "greedy": true,
+            "case": false
+        },
+        "ph_remove7": {
+            "find": "/support.apple.com",
+            "replace": "/www.apple.com/ph/support",
+            "greedy": true,
+            "case": false
+        },
+        "ph_remove8": {
+            "find": "itunes.apple.com/us",
+            "replace": "itunes.apple.com",
+            "greedy": true,
+            "case": false
+        },
+        "ph_remove9": {
+            "find": "itunes.apple.com",
+            "replace": "itunes.apple.com/ph",
+            "greedy": true,
+            "case": false
+        },
+        "ph_remove10": {
+            "find": "store.apple.com/us",
+            "replace": "store.apple.com/ph",
+            "greedy": true,
+            "case": false
+        },
+        "ph_remove11": {
+            "find": "www.apple.com",
+            "replace": "www.apple.com/ph",
+            "greedy": true,
+            "case": false
+        },
+        //from_address.txt
+        "ph_remove12": {
+            "find": "us: Standard Chatterbox",
+            "replace": "phi: APAC Standard Chatterbox",
+            "greedy": true,
+            "case": false
+        },
+        //index.txt and index.html
+        "ph_remove13": {
+            "find": "Find a Store",
+            "replace": "Find a Reseller",
+            "greedy": true,
+            "case": false
+        },
+        "ph_remove14": {
+            "find": "1-800-MY-APPLE",
+            "replace": "1800-1651-0525",
+            "greedy": true,
+            "case": false
+        },
+        "ph_remove15": {
+            "find": "TM and copyright (c) [[COPYRIGHT_YEAR]] Apple Inc.",
+            "replace": "TM and (c) [[COPYRIGHT_YEAR]] Apple Inc.",
+            "greedy": true,
+            "case": false
+        },
+        "ph_remove16": {
+            "find": "1 Infinite Loop, MS 96-DM, Cupertino, CA 95014.",
+            "replace": "Tel: 1800-1651-0525.",
+            "greedy": true,
+            "case": false
+        },
+        "ph_remove17": {
+            "find": "www.apple.com/ph/privacy/privacy-policy/",
+            "replace": "www.apple.com/ph/privacy/",
+            "greedy": true,
+            "case": false
+        },
+        "ph_remove18": {
+            "find": "www.apple.com/ph/privacy/",
+            "replace": "www.apple.com/legal/privacy/en-ww",
+            "greedy": true,
+            "case": false
+        },
+        "ph_remove19": {
+            "find": "appleid.apple.com",
+            "replace": "appleid.apple.com/en_PH",
+            "greedy": true,
+            "case": false
+        },
+        "ph_remove20": {
+            "find": "Visit a store",
+            "replace": "Find a reseller",
+            "greedy": true,
+            "case": false
+        },
+        "ph_remove21": {
+            "find": "www.apple.com/ph/legal/internet-services/itunes/us/terms.html",
+            "replace": "www.apple.com/legal/internet-services/itunes/ph/terms.html",
+            "greedy": true,
+            "case": false
+        },
+        "ph_remove22": {
+            "find": "www.apple.com/ph/support/itunes/ww/",
+            "replace": "www.apple.com/support/itunes/ww/",
+            "greedy": true,
+            "case": false
+        },
+        "ph_remove23": {
+            "find": "Find&nbsp;a&nbsp;Store",
+            "replace": "Find a Reseller",
+            "greedy": true,
+            "case": false
+        },
+        "ph_remove24": {
+            "find": "1‑800‑MY‑APPLE",
+            "replace": "1800-1651-0525",
+            "greedy": true,
+            "case": false
+        },
+        "ph_remove25": {
+            "find": "TM and copyright © [[COPYRIGHT_YEAR]] Apple Inc.",
+            "replace": "TM and © [[COPYRIGHT_YEAR]] Apple Inc.",
+            "greedy": true,
+            "case": false
+        },
+
+       //vietnam
+        //click.txt
+        "vn_remove1": {
+            "find": "www.apple.com/us",
+            "replace": "www.apple.com",
+            "greedy": true,
+            "case": false
+        },
+        "vn_remove2": {
+            "find": "www.apple.com/retail/learn",
+            "replace": "www.apple.com/retail",
+            "greedy": true,
+            "case": false
+        },
+        "vn_remove3": {
+            "find": "www.apple.com/retail/iphone",
+            "replace": "www.apple.com/retail",
+            "greedy": true,
+            "case": false
+        },
+        "vn_remove4": {
+            "find": "www.apple.com/retail",
+            "replace": "locate.apple.com/vn/en",
+            "greedy": true,
+            "case": false
+        },
+        "vn_remove5": {
+            "find": "www.apple.com/xc/stores",
+            "replace": "locate.apple.com/vn/en",
+            "greedy": true,
+            "case": false
+        },
+        "vn_remove6": {
+            "find": "/support.apple.com/kb",
+            "replace": "/support.apple.com",
+            "greedy": true,
+            "case": false
+        },
+        "vn_remove7": {
+            "find": "/support.apple.com",
+            "replace": "/www.apple.com/vn/support",
+            "greedy": true,
+            "case": false
+        },
+        "vn_remove8": {
+            "find": "itunes.apple.com/us",
+            "replace": "itunes.apple.com",
+            "greedy": true,
+            "case": false
+        },
+        "vn_remove9": {
+            "find": "itunes.apple.com",
+            "replace": "itunes.apple.com/vn",
+            "greedy": true,
+            "case": false
+        },
+        "vn_remove10": {
+            "find": "store.apple.com/us",
+            "replace": "store.apple.com/vn",
+            "greedy": true,
+            "case": false
+        },
+        "vn_remove11": {
+            "find": "www.apple.com",
+            "replace": "www.apple.com/vn",
+            "greedy": true,
+            "case": false
+        },
+        //from_address.txt
+        "vn_remove12": {
+            "find": "us: Standard Chatterbox",
+            "replace": "vie: APAC Standard Chatterbox",
+            "greedy": true,
+            "case": false
+        },
+        //index.txt and index.html
+        "vn_remove13": {
+            "find": "Find a Store",
+            "replace": "Find a Reseller",
+            "greedy": true,
+            "case": false
+        },
+        "vn_remove14": {
+            "find": "1-800-MY-APPLE",
+            "replace": "120-65-104",
+            "greedy": true,
+            "case": false
+        },
+        "vn_remove15": {
+            "find": "TM and copyright (c) [[COPYRIGHT_YEAR]] Apple Inc.",
+            "replace": "TM and (c) [[COPYRIGHT_YEAR]] Apple Inc.",
+            "greedy": true,
+            "case": false
+        },
+        "vn_remove16": {
+            "find": "1 Infinite Loop, MS 96-DM, Cupertino, CA 95014.",
+            "replace": "Tel: 120-65-104.",
+            "greedy": true,
+            "case": false
+        },
+        "vn_remove17": {
+            "find": "www.apple.com/vn/privacy/privacy-policy/",
+            "replace": "www.apple.com/vn/privacy/",
+            "greedy": true,
+            "case": false
+        },
+        "vn_remove18": {
+            "find": "www.apple.com/vn/privacy/",
+            "replace": "www.apple.com/legal/privacy/en-ww",
+            "greedy": true,
+            "case": false
+        },
+        "vn_remove19": {
+            "find": "appleid.apple.com",
+            "replace": "appleid.apple.com/en_VN",
+            "greedy": true,
+            "case": false
+        },
+        "vn_remove20": {
+            "find": "Get the Apple Store App",
+            "replace": "***Get the Apple Store App",
+            "greedy": true,
+            "case": false
+        },
+        "vn_remove21": {
+            "find": "Visit a store",
+            "replace": "Find a reseller",
+            "greedy": true,
+            "case": false
+        },
+        "vn_remove22": {
+            "find": "Shop Online",
+            "replace": "***Shop Online",
+            "greedy": true,
+            "case": false
+        },
+        "vn_remove23": {
+            "find": "www.apple.com/vn/legal/internet-services/itunes/us/terms.html",
+            "replace": "www.apple.com/legal/internet-services/itunes/vn/terms.html",
+            "greedy": true,
+            "case": false
+        },
+         "vn_remove24": {
+            "find": "www.apple.com/vn/support/itunes/ww/",
+            "replace": "www.apple.com/support/itunes/ww/",
+            "greedy": true,
+            "case": false
+        },
+        "vn_remove25": {
+            "find": "Find&nbsp;a&nbsp;Store",
+            "replace": "Find a Reseller",
+            "greedy": true,
+            "case": false
+        },
+        "vn_remove26": {
+            "find": "1‑800‑MY‑APPLE",
+            "replace": "120-65-104",
+            "greedy": true,
+            "case": false
+        },
+        "vn_remove27": {
+            "find": "Get&nbsp;the&nbsp;Apple&nbsp;Store&nbsp;App",
+            "replace": "***Get&nbsp;the&nbsp;Apple&nbsp;Store&nbsp;App",
+            "greedy": true,
+            "case": false
+        },
+        "vn_remove28": {
+            "find": "Shop&nbsp;Online",
+            "replace": "***Shop Online",
+            "greedy": true,
+            "case": false
+        },
+        "vn_remove29": {
+            "find": "TM and copyright © [[COPYRIGHT_YEAR]] Apple Inc.",
+            "replace": "TM and © [[COPYRIGHT_YEAR]] Apple Inc.",
+            "greedy": true,
+            "case": false
+        },
+
+        //indonesia - ID
+        //click.txt
+        "id_id_remove1": {
+            "find": "www.apple.com/us",
+            "replace": "www.apple.com",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_remove2": {
+            "find": "www.apple.com/retail/learn",
+            "replace": "www.apple.com/retail",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_remove3": {
+            "find": "www.apple.com/retail/iphone",
+            "replace": "www.apple.com/retail",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_remove4": {
+            "find": "www.apple.com/retail",
+            "replace": "locate.apple.com/id/id",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_remove5": {
+            "find": "www.apple.com/xc/stores",
+            "replace": "locate.apple.com/id/id",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_remove6": {
+            "find": "/support.apple.com/kb",
+            "replace": "/support.apple.com",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_remove7": {
+            "find": "/support.apple.com",
+            "replace": "/www.apple.com/id/support",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_remove8": {
+            "find": "itunes.apple.com/us",
+            "replace": "itunes.apple.com",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_remove9": {
+            "find": "itunes.apple.com",
+            "replace": "itunes.apple.com/id",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_remove10": {
+            "find": "store.apple.com/us",
+            "replace": "store.apple.com/id",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_remove11": {
+            "find": "www.apple.com",
+            "replace": "www.apple.com/id",
+            "greedy": true,
+            "case": false
+        },
+        //from_address.txt
+        "id_id_remove12": {
+            "find": "us: Standard Chatterbox",
+            "replace": "id: APAC Standard Chatterbox",
+            "greedy": true,
+            "case": false
+        },
+        //index.txt and index.html
+        "id_id_remove13": {
+            "find": "Find a Store",
+            "replace": "Cari Toko",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_remove14": {
+            "find": "1-800-MY-APPLE",
+            "replace": "001-803-65-7955",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_remove15": {
+            "find": "TM and copyright (c) [[COPYRIGHT_YEAR]] Apple Inc.",
+            "replace": "TM dan (c) [[COPYRIGHT_YEAR]] Apple Inc.",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_remove16": {
+            "find": "1 Infinite Loop, MS 96-DM, Cupertino, CA 95014.",
+            "replace": "Tel: 001-803-65-7955.",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_remove17": {
+            "find": "www.apple.com/id/privacy/privacy-policy/",
+            "replace": "www.apple.com/id/privacy/",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_remove18": {
+            "find": "www.apple.com/id/privacy/",
+            "replace": "www.apple.com/legal/privacy/id/",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_remove19": {
+            "find": "appleid.apple.com",
+            "replace": "appleid.apple.com/id_ID",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_remove20": {
+            "find": "Get the Apple Store App",
+            "replace": "***Get the Apple Store App",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_remove21": {
+            "find": "Visit a store",
+            "replace": "Cari Toko",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_remove22": {
+            "find": "Shop Online",
+            "replace": "***Shop Online",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_remove23": {
+            "find": "All Rights Reserved",
+            "replace": "Seluruh Hak Cipta Dilindungi Undang-Undang",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_remove24": {
+            "find": "Updated Privacy Policy",
+            "replace": "Kebijakan Privasi",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_remove25": {
+            "find": "My Apple ID",
+            "replace": "ID Apple saya",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_remove26": {
+            "find": "If you prefer not to receive commercial email from Apple, or if you‘ve changed your email address, please",
+            "replace": "Bila Anda memilih untuk tidak menerima email penawaran dari Apple, atau Anda telah mengganti alamat email, silakan",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_remove27": {
+            "find": "click here",
+            "replace": "klik di sini",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_remove28": {
+            "find": "www.apple.com/id/legal/internet-services/itunes/us/terms.html",
+            "replace": "www.apple.com/legal/internet-services/itunes/id/terms.html",
+            "greedy": true,
+            "case": false
+        },
+         "id_id_remove29": {
+            "find": "www.apple.com/id/support/itunes/ww/",
+            "replace": "www.apple.com/support/itunes/ww/",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_remove30": {
+            "find": "Find&nbsp;a&nbsp;Store",
+            "replace": "Find a Reseller",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_remove31": {
+            "find": "1‑800‑MY‑APPLE",
+            "replace": "001-803-65-7955",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_remove32": {
+            "find": "Get&nbsp;the&nbsp;Apple&nbsp;Store&nbsp;App",
+            "replace": "***Get&nbsp;the&nbsp;Apple&nbsp;Store&nbsp;App",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_remove33": {
+            "find": "Shop&nbsp;Online",
+            "replace": "***Shop Online",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_remove34": {
+            "find": "TM and copyright © [[COPYRIGHT_YEAR]] Apple Inc.",
+            "replace": "TM dan © [[COPYRIGHT_YEAR]] Apple Inc.",
+            "greedy": true,
+            "case": false
+        },
+
+        //thailand - TH
+        //click.txt
+        "th_th_remove1": {
+            "find": "www.apple.com/us",
+            "replace": "www.apple.com",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_remove2": {
+            "find": "www.apple.com/retail/learn",
+            "replace": "www.apple.com/retail",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_remove3": {
+            "find": "www.apple.com/retail/iphone",
+            "replace": "www.apple.com/retail",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_remove4": {
+            "find": "www.apple.com/retail",
+            "replace": "locate.apple.com/th/th",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_remove5": {
+            "find": "www.apple.com/xc/stores",
+            "replace": "locate.apple.com/th/th",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_remove6": {
+            "find": "/support.apple.com/kb",
+            "replace": "/support.apple.com",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_remove7": {
+            "find": "/support.apple.com",
+            "replace": "www.apple.com/th/support",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_remove8": {
+            "find": "itunes.apple.com/us",
+            "replace": "itunes.apple.com",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_remove9": {
+            "find": "itunes.apple.com",
+            "replace": "itunes.apple.com/th",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_remove10": {
+            "find": "store.apple.com/us",
+            "replace": "store.apple.com/th",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_remove11": {
+            "find": "www.apple.com",
+            "replace": "www.apple.com/th",
+            "greedy": true,
+            "case": false
+        },
+        //from_address.txt
+        "th_th_remove12": {
+            "find": "us: Standard Chatterbox",
+            "replace": "th: APAC Standard Chatterbox",
+            "greedy": true,
+            "case": false
+        },
+        //index.txt and index.html
+        "th_th_remove13": {
+            "find": "Find a Store",
+            "replace": "ค้นหาตัวแทนจำหน่าย",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_remove14": {
+            "find": "1-800-MY-APPLE",
+            "replace": "001-800-65-6957",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_remove15": {
+            "find": "TM and copyright",
+            "replace": "เครื่องหมายการค้าและ",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_remove16": {
+            "find": "1 Infinite Loop, MS 96-DM, Cupertino, CA 95014.",
+            "replace": "Tel: 001-800-65-6957.",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_remove17": {
+            "find": "www.apple.com/th/privacy/privacy-policy/",
+            "replace": "www.apple.com/th/privacy/",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_remove18": {
+            "find": "www.apple.com/th/privacy/",
+            "replace": "www.apple.com/legal/privacy/th/",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_remove19": {
+            "find": "appleid.apple.com",
+            "replace": "appleid.apple.com/th_TH",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_remove20": {
+            "find": "Get the Apple Store App",
+            "replace": "***Get the Apple Store App",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_remove21": {
+            "find": "Visit a store",
+            "replace": "ค้นหาตัวแทนจำหน่าย",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_remove22": {
+            "find": "Shop Online",
+            "replace": "ซื้อออนไลน์",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_remove23": {
+            "find": "All Rights Reserved",
+            "replace": "สงวนสิทธิ์ทุกประการ",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_remove24": {
+            "find": "Updated Privacy Policy",
+            "replace": "นโยบายความเป็นส่วนตัวฉบับปรับปรุง",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_remove25": {
+            "find": "My Apple ID",
+            "replace": "Apple ID ของฉัน",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_remove26": {
+            "find": "If you prefer not to receive commercial email from Apple, or if you‘ve changed your email address, please",
+            "replace": "อีเมลฉบับนี้เกี่ยวข้องกับการดำเนินการของคุณ หากคุณไม่ต้องการรับอีเมลเชิงพาณิชย์จาก Apple โปรด",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_remove27": {
+            "find": "click here",
+            "replace": "คลิกที่นี่",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_remove28": {
+            "find": "www.apple.com/th/legal/internet-services/itunes/us/terms.html",
+            "replace": "www.apple.com/legal/internet-services/itunes/th/terms.html",
+            "greedy": true,
+            "case": false
+        },
+         "th_th_remove29": {
+            "find": "www.apple.com/th/support/itunes/ww/",
+            "replace": "www.apple.com/support/itunes/ww/",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_remove30": {
+            "find": "Find&nbsp;a&nbsp;Store",
+            "replace": "Find a Reseller",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_remove31": {
+            "find": "1‑800‑MY‑APPLE",
+            "replace": "001-800-65-6957",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_remove32": {
+            "find": "Get&nbsp;the&nbsp;Apple&nbsp;Store&nbsp;App",
+            "replace": "***Get&nbsp;the&nbsp;Apple&nbsp;Store&nbsp;App",
+            "greedy": true,
+            "case": false
+        },
+
+        //indonesia - ID - Preloc
+        //click.txt
+        "id_id_preloc_remove1": {
+            "find": "www.apple.com/us",
+            "replace": "www.apple.com",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_preloc_remove2": {
+            "find": "www.apple.com/retail/learn",
+            "replace": "www.apple.com/retail",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_preloc_remove3": {
+            "find": "www.apple.com/retail/iphone",
+            "replace": "www.apple.com/retail",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_preloc_remove4": {
+            "find": "www.apple.com/retail",
+            "replace": "locate.apple.com/id/id",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_preloc_remove5": {
+            "find": "www.apple.com/xc/stores",
+            "replace": "locate.apple.com/id/id",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_preloc_remove6": {
+            "find": "/support.apple.com/kb",
+            "replace": "/support.apple.com",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_preloc_remove7": {
+            "find": "/support.apple.com",
+            "replace": "/www.apple.com/id/support",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_preloc_remove8": {
+            "find": "itunes.apple.com/us",
+            "replace": "itunes.apple.com",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_preloc_remove9": {
+            "find": "itunes.apple.com",
+            "replace": "itunes.apple.com/id",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_preloc_remove10": {
+            "find": "store.apple.com/us",
+            "replace": "store.apple.com/id",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_preloc_remove11": {
+            "find": "www.apple.com",
+            "replace": "www.apple.com/id",
+            "greedy": true,
+            "case": false
+        },
+        //from_address.txt
+        "id_id_preloc_remove12": {
+            "find": "us: Standard Chatterbox",
+            "replace": "id: APAC Standard Chatterbox",
+            "greedy": true,
+            "case": false
+        },
+        //index.txt and index.html
+        "id_id_preloc_remove13": {
+            "find": "Find a Store",
+            "replace": "Find a Store",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_preloc_remove14": {
+            "find": "1-800-MY-APPLE",
+            "replace": "001-803-65-7955",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_preloc_remove15": {
+            "find": "TM and copyright (c) [[COPYRIGHT_YEAR]] Apple Inc.",
+            "replace": "TM and (c) [[COPYRIGHT_YEAR]] Apple Inc.",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_preloc_remove16": {
+            "find": "1 Infinite Loop, MS 96-DM, Cupertino, CA 95014.",
+            "replace": "Tel: 001-803-65-7955.",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_preloc_remove17": {
+            "find": "www.apple.com/id/privacy/privacy-policy/",
+            "replace": "www.apple.com/id/privacy/",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_preloc_remove18": {
+            "find": "www.apple.com/id/privacy/",
+            "replace": "www.apple.com/legal/privacy/id/",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_preloc_remove19": {
+            "find": "appleid.apple.com",
+            "replace": "appleid.apple.com/id_ID",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_preloc_remove20": {
+            "find": "Get the Apple Store App",
+            "replace": "***Get the Apple Store App",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_preloc_remove21": {
+            "find": "Visit a store",
+            "replace": "Visit a store",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_preloc_remove22": {
+            "find": "Shop Online",
+            "replace": "***Shop Online",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_preloc_remove23": {
+            "find": "All Rights Reserved",
+            "replace": "All Rights Reserved",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_preloc_remove24": {
+            "find": "Updated Privacy Policy",
+            "replace": "Updated Privacy Policy",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_preloc_remove25": {
+            "find": "My Apple ID",
+            "replace": "My Apple ID",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_preloc_remove26": {
+            "find": "If you prefer not to receive commercial email from Apple, or if you‘ve changed your email address, please",
+            "replace": "If you prefer not to receive commercial email from Apple, or if you‘ve changed your email address, please",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_preloc_remove27": {
+            "find": "click here",
+            "replace": "click here",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_preloc_remove21": {
+            "find": "www.apple.com/id/legal/internet-services/itunes/us/terms.html",
+            "replace": "www.apple.com/legal/internet-services/itunes/id/terms.html",
+            "greedy": true,
+            "case": false
+        },
+         "id_id_preloc_remove22": {
+            "find": "www.apple.com/id/support/itunes/ww/",
+            "replace": "www.apple.com/support/itunes/ww/",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_preloc_remove23": {
+            "find": "Find&nbsp;a&nbsp;Store",
+            "replace": "Find a Reseller",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_preloc_remove24": {
+            "find": "1‑800‑MY‑APPLE",
+            "replace": "001-803-65-7955",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_preloc_remove25": {
+            "find": "Get&nbsp;the&nbsp;Apple&nbsp;Store&nbsp;App",
+            "replace": "***Get&nbsp;the&nbsp;Apple&nbsp;Store&nbsp;App",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_preloc_remove26": {
+            "find": "Shop&nbsp;Online",
+            "replace": "***Shop Online",
+            "greedy": true,
+            "case": false
+        },
+        "id_id_preloc_remove27": {
+            "find": "TM and copyright © [[COPYRIGHT_YEAR]] Apple Inc.",
+            "replace": "TM and © [[COPYRIGHT_YEAR]] Apple Inc.",
+            "greedy": true,
+            "case": false
+        },       
+
+
+        //thailand - TH - Preloc
+        //click.txt
+        "th_th_preloc_remove1": {
+            "find": "www.apple.com/us",
+            "replace": "www.apple.com",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_preloc_remove2": {
+            "find": "www.apple.com/retail/learn",
+            "replace": "www.apple.com/retail",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_preloc_remove3": {
+            "find": "www.apple.com/retail/iphone",
+            "replace": "www.apple.com/retail",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_preloc_remove4": {
+            "find": "www.apple.com/retail",
+            "replace": "locate.apple.com/th/th",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_preloc_remove5": {
+            "find": "www.apple.com/xc/stores",
+            "replace": "locate.apple.com/th/th",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_preloc_remove6": {
+            "find": "/support.apple.com/kb",
+            "replace": "/support.apple.com",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_preloc_remove7": {
+            "find": "/support.apple.com",
+            "replace": "www.apple.com/th/support",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_preloc_remove8": {
+            "find": "itunes.apple.com/us",
+            "replace": "itunes.apple.com",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_preloc_remove9": {
+            "find": "itunes.apple.com",
+            "replace": "itunes.apple.com/th",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_preloc_remove10": {
+            "find": "store.apple.com/us",
+            "replace": "store.apple.com/th",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_preloc_remove11": {
+            "find": "www.apple.com",
+            "replace": "www.apple.com/th",
+            "greedy": true,
+            "case": false
+        },
+        //from_address.txt
+        "th_th_preloc_remove12": {
+            "find": "us: Standard Chatterbox",
+            "replace": "th: APAC Standard Chatterbox",
+            "greedy": true,
+            "case": false
+        },
+        //index.txt and index.html
+        "th_th_preloc_remove13": {
+            "find": "Find a Store",
+            "replace": "Find a Store",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_preloc_remove14": {
+            "find": "1-800-MY-APPLE",
+            "replace": "001-800-65-6957",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_preloc_remove15": {
+            "find": "TM and copyright",
+            "replace": "TM and copyright",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_preloc_remove16": {
+            "find": "1 Infinite Loop, MS 96-DM, Cupertino, CA 95014.",
+            "replace": "Tel: 001-800-65-6957.",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_preloc_remove17": {
+            "find": "www.apple.com/th/privacy/privacy-policy/",
+            "replace": "www.apple.com/th/privacy/",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_preloc_remove18": {
+            "find": "www.apple.com/th/privacy/",
+            "replace": "www.apple.com/legal/privacy/th/",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_preloc_remove19": {
+            "find": "appleid.apple.com",
+            "replace": "appleid.apple.com/th_TH",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_preloc_remove20": {
+            "find": "Get the Apple Store App",
+            "replace": "***Get the Apple Store App",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_preloc_remove21": {
+            "find": "Visit a store",
+            "replace": "Visit a store",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_preloc_remove22": {
+            "find": "Shop Online",
+            "replace": "Shop Online",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_preloc_remove23": {
+            "find": "All Rights Reserved",
+            "replace": "All Rights Reserved",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_preloc_remove24": {
+            "find": "Updated Privacy Policy",
+            "replace": "Updated Privacy Policy",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_preloc_remove25": {
+            "find": "My Apple ID",
+            "replace": "My Apple ID",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_preloc_remove26": {
+            "find": "If you prefer not to receive commercial email from Apple, or if you‘ve changed your email address, please",
+            "replace": "If you prefer not to receive commercial email from Apple, or if you‘ve changed your email address, please",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_preloc_remove27": {
+            "find": "click here",
+            "replace": "click here่",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_preloc_remove28": {
+            "find": "www.apple.com/th/legal/internet-services/itunes/us/terms.html",
+            "replace": "www.apple.com/legal/internet-services/itunes/th/terms.html",
+            "greedy": true,
+            "case": false
+        },
+         "th_th_preloc_remove29": {
+            "find": "www.apple.com/th/support/itunes/ww/",
+            "replace": "www.apple.com/support/itunes/ww/",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_preloc_remove30": {
+            "find": "Find&nbsp;a&nbsp;Store",
+            "replace": "Find a Reseller",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_preloc_remove31": {
+            "find": "1‑800‑MY‑APPLE",
+            "replace": "001-800-65-6957",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_preloc_remove32": {
+            "find": "Get&nbsp;the&nbsp;Apple&nbsp;Store&nbsp;App",
+            "replace": "***Get&nbsp;the&nbsp;Apple&nbsp;Store&nbsp;App",
+            "greedy": true,
+            "case": false
+        },
+        "th_th_preloc_remove33": {
+            "find": "TM and copyright © [[COPYRIGHT_YEAR]] Apple Inc.",
+            "replace": "TM and © [[COPYRIGHT_YEAR]] Apple Inc.",
+            "greedy": true,
+            "case": false
+        },   
+           
+
+        //indonesia - EN
+        //click.txt
+        "id_en_remove1": {
+            "find": "www.apple.com/us",
+            "replace": "www.apple.com",
+            "greedy": true,
+            "case": false
+        },
+        "id_en_remove2": {
+            "find": "www.apple.com/retail/learn",
+            "replace": "www.apple.com/retail",
+            "greedy": true,
+            "case": false
+        },
+        "id_en_remove3": {
+            "find": "www.apple.com/retail/iphone",
+            "replace": "www.apple.com/retail",
+            "greedy": true,
+            "case": false
+        },
+        "id_en_remove4": {
+            "find": "www.apple.com/retail",
+            "replace": "locate.apple.com/id/id",
+            "greedy": true,
+            "case": false
+        },
+        "id_en_remove5": {
+            "find": "www.apple.com/xc/stores",
+            "replace": "locate.apple.com/id/id",
+            "greedy": true,
+            "case": false
+        },
+        "id_en_remove6": {
+            "find": "/support.apple.com/kb",
+            "replace": "/support.apple.com",
+            "greedy": true,
+            "case": false
+        },
+        "id_en_remove7": {
+            "find": "/support.apple.com",
+            "replace": "/www.apple.com/id/support",
+            "greedy": true,
+            "case": false
+        },
+        "id_en_remove8": {
+            "find": "itunes.apple.com/us",
+            "replace": "itunes.apple.com",
+            "greedy": true,
+            "case": false
+        },
+        "id_en_remove9": {
+            "find": "itunes.apple.com",
+            "replace": "itunes.apple.com/id",
+            "greedy": true,
+            "case": false
+        },
+        "id_en_remove10": {
+            "find": "store.apple.com/us",
+            "replace": "store.apple.com/id",
+            "greedy": true,
+            "case": false
+        },
+        "id_en_remove11": {
+            "find": "www.apple.com",
+            "replace": "www.apple.com/id",
+            "greedy": true,
+            "case": false
+        },
+        //from_address.txt
+        "id_en_remove12": {
+            "find": "us: Standard Chatterbox",
+            "replace": "id: APAC Standard Chatterbox",
+            "greedy": true,
+            "case": false
+        },
+        //index.txt and index.html
+        "id_en_remove13": {
+            "find": "Find a Store",
+            "replace": "Find a Reseller",
+            "greedy": true,
+            "case": false
+        },
+        "id_en_remove14": {
+            "find": "1-800-MY-APPLE",
+            "replace": "1001-803-65-7955",
+            "greedy": true,
+            "case": false
+        },
+        "id_en_remove15": {
+            "find": "TM and copyright (c) [[COPYRIGHT_YEAR]] Apple Inc.",
+            "replace": "TM and (c) [[COPYRIGHT_YEAR]] Apple Inc.",
+            "greedy": true,
+            "case": false
+        },
+        "id_en_remove16": {
+            "find": "1 Infinite Loop, MS 96-DM, Cupertino, CA 95014.",
+            "replace": "Tel: 001-803-65-7955.",
+            "greedy": true,
+            "case": false
+        },
+        "id_en_remove17": {
+            "find": "www.apple.com/id/privacy/privacy-policy/",
+            "replace": "www.apple.com/id/privacy/",
+            "greedy": true,
+            "case": false
+        },
+        "id_en_remove18": {
+            "find": "www.apple.com/id/privacy/",
+            "replace": "www.apple.com/legal/privacy/id/",
+            "greedy": true,
+            "case": false
+        },
+        "id_en_remove19": {
+            "find": "appleid.apple.com",
+            "replace": "appleid.apple.com/id_ID",
+            "greedy": true,
+            "case": false
+        },
+        "id_en_remove20": {
+            "find": "Get the Apple Store App",
+            "replace": "***Get the Apple Store App",
+            "greedy": true,
+            "case": false
+        },
+        "id_en_remove21": {
+            "find": "Visit a store",
+            "replace": "Find a reseller",
+            "greedy": true,
+            "case": false
+        },
+        "id_en_remove22": {
+            "find": "Shop Online",
+            "replace": "***Shop Online",
+            "greedy": true,
+            "case": false
+        },
+        "id_en_remove23": {
+            "find": "www.apple.com/id/legal/internet-services/itunes/us/terms.html",
+            "replace": "www.apple.com/legal/internet-services/itunes/id/terms.html",
+            "greedy": true,
+            "case": false
+        },
+         "id_en_remove24": {
+            "find": "www.apple.com/id/support/itunes/ww/",
+            "replace": "www.apple.com/support/itunes/ww/",
+            "greedy": true,
+            "case": false
+        },
+        "id_en_remove25": {
+            "find": "Find&nbsp;a&nbsp;Store",
+            "replace": "Find a Reseller",
+            "greedy": true,
+            "case": false
+        },
+        "id_en_remove26": {
+            "find": "1‑800‑MY‑APPLE",
+            "replace": "001-803-65-7955",
+            "greedy": true,
+            "case": false
+        },
+        "id_en_remove25": {
+            "find": "Get&nbsp;the&nbsp;Apple&nbsp;Store&nbsp;App",
+            "replace": "***Get&nbsp;the&nbsp;Apple&nbsp;Store&nbsp;App",
+            "greedy": true,
+            "case": false
+        },
+        "id_en_remove26": {
+            "find": "Shop&nbsp;Online",
+            "replace": "***Shop Online",
+            "greedy": true,
+            "case": false
+        },
+        "id_en_remove27": {
+            "find": "TM and copyright © [[COPYRIGHT_YEAR]] Apple Inc.",
+            "replace": "TM and © [[COPYRIGHT_YEAR]] Apple Inc.",
+            "greedy": true,
+            "case": false
+        },   
+
+        //thailand - EN
+        //click.txt
+        "th_en_remove1": {
+            "find": "www.apple.com/us",
+            "replace": "www.apple.com",
+            "greedy": true,
+            "case": false
+        },
+        "th_en_remove2": {
+            "find": "www.apple.com/retail/learn",
+            "replace": "www.apple.com/retail",
+            "greedy": true,
+            "case": false
+        },
+        "th_en_remove3": {
+            "find": "www.apple.com/retail/iphone",
+            "replace": "www.apple.com/retail",
+            "greedy": true,
+            "case": false
+        },
+        "th_en_remove4": {
+            "find": "www.apple.com/retail",
+            "replace": "locate.apple.com/th/th",
+            "greedy": true,
+            "case": false
+        },
+        "th_en_remove5": {
+            "find": "www.apple.com/xc/stores",
+            "replace": "locate.apple.com/th/th",
+            "greedy": true,
+            "case": false
+        },
+        "th_en_remove6": {
+            "find": "/support.apple.com/kb",
+            "replace": "/support.apple.com",
+            "greedy": true,
+            "case": false
+        },
+        "th_en_remove7": {
+            "find": "/support.apple.com",
+            "replace": "www.apple.com/th/support",
+            "greedy": true,
+            "case": false
+        },
+        "th_en_remove8": {
+            "find": "itunes.apple.com/us",
+            "replace": "itunes.apple.com",
+            "greedy": true,
+            "case": false
+        },
+        "th_en_remove9": {
+            "find": "itunes.apple.com",
+            "replace": "itunes.apple.com/th",
+            "greedy": true,
+            "case": false
+        },
+        "th_en_remove10": {
+            "find": "store.apple.com/us",
+            "replace": "store.apple.com/th",
+            "greedy": true,
+            "case": false
+        },
+        "th_en_remove11": {
+            "find": "www.apple.com",
+            "replace": "www.apple.com/th",
+            "greedy": true,
+            "case": false
+        },
+        //from_address.txt
+        "th_en_remove12": {
+            "find": "us: Standard Chatterbox",
+            "replace": "th: APAC Standard Chatterbox",
+            "greedy": true,
+            "case": false
+        },
+        //index.txt and index.html
+        "th_en_remove13": {
+            "find": "Find a Store",
+            "replace": "Find a Reseller",
+            "greedy": true,
+            "case": false
+        },
+        "th_en_remove14": {
+            "find": "1-800-MY-APPLE",
+            "replace": "001-800-65-6957",
+            "greedy": true,
+            "case": false
+        },
+        "th_en_remove15": {
+            "find": "TM and copyright (c) [[COPYRIGHT_YEAR]] Apple Inc.",
+            "replace": "TM and (c) [[COPYRIGHT_YEAR]] Apple Inc.",
+            "greedy": true,
+            "case": false
+        },
+        "th_en_remove16": {
+            "find": "1 Infinite Loop, MS 96-DM, Cupertino, CA 95014.",
+            "replace": "Tel: 001-800-65-6957.",
+            "greedy": true,
+            "case": false
+        },
+        "th_en_remove17": {
+            "find": "www.apple.com/th/privacy/privacy-policy/",
+            "replace": "www.apple.com/th/privacy/",
+            "greedy": true,
+            "case": false
+        },
+        "th_en_remove18": {
+            "find": "www.apple.com/th/privacy/",
+            "replace": "www.apple.com/legal/privacy/th/",
+            "greedy": true,
+            "case": false
+        },
+        "th_en_remove19": {
+            "find": "appleid.apple.com",
+            "replace": "appleid.apple.com/th_TH",
+            "greedy": true,
+            "case": false
+        },
+        "th_en_remove20": {
+            "find": "Get the Apple Store App",
+            "replace": "***Get the Apple Store App",
+            "greedy": true,
+            "case": false
+        },
+        "th_en_remove21": {
+            "find": "Visit a store",
+            "replace": "Find a reseller",
+            "greedy": true,
+            "case": false
+        },
+        "th_en_remove22": {
+            "find": "www.apple.com/th/legal/internet-services/itunes/us/terms.html",
+            "replace": "www.apple.com/legal/internet-services/itunes/th/terms.html",
+            "greedy": true,
+            "case": false
+        },
+         "th_en_remove23": {
+            "find": "www.apple.com/th/support/itunes/ww/",
+            "replace": "www.apple.com/support/itunes/ww/",
+            "greedy": true,
+            "case": false
+        },
+        "th_en_remove24": {
+            "find": "Find&nbsp;a&nbsp;Store",
+            "replace": "Find a Reseller",
+            "greedy": true,
+            "case": false
+        },
+        "th_en_remove25": {
+            "find": "1‑800‑MY‑APPLE",
+            "replace": "001-800-65-6957",
+            "greedy": true,
+            "case": false
+        },
+        "th_en_remove26": {
+            "find": "TM and copyright © [[COPYRIGHT_YEAR]] Apple Inc.",
+            "replace": "TM and © [[COPYRIGHT_YEAR]] Apple Inc.",
+            "greedy": true,
+            "case": false
+        }
+    }
+}
